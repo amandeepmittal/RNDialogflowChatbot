@@ -56,3 +56,4 @@ buck-out/
 *.jsbundle
 
 README.md
+env.js
